@@ -42,9 +42,11 @@ ECM is composed of
 	* Laminin & Fibronectin:	Adhesion
 	* Proteoglycans:			Matrix constitution
 
-
+<table>
+  <tr>
+	<td>
 Collagen
-========
+--------
 	* Func: Fibrous, high tensile strength
 	* Struct: Each strand is 3 helicies intertwined, comprised of many PRO and GLY
 	* One of most abundant proteins
@@ -53,21 +55,21 @@ Collagen
 		* SEE: TABLE OF COLLAGEN DISORDERS
 			* Eg. Scurvy - Vitamin C required as co-factor to produce collagen
 
+	</td>
+	<td>
+
 Elastin
-=======
+-------
 	* Func: Elastic, resumption of tissue shape after deformation
 	* Struct: Highly crosslinked
 
-Proteoglycans
-=============
-	* Func: Amorphous gel-like ECM, reduces friction / impact
-	* Struct: Highly hydrophobic GAGs
-		* Free GAGs found in joints, however usually components of Proteoglyans
-		* ...
-		* STUDY STRUCTURE
+	</td>
+  </tr>
+  <tr>
+	<td>
 
 Fibronectin
-===========
+-----------
 	* Func: Link between ECM & PM
 	* Important in Development and Cell Migration
 		* Haptotaxis - cells guided by ECM
@@ -76,11 +78,33 @@ Fibronectin
 		* RGD-binding domain, eg. Integrin-binding
 	* Eg, neural crest cell migration
 
+	</td>
+	<td>
 
 Laminin
-=======
+-------
 	* Dimers or trimers w/ helicies
 	* WHAT DOES IT DO????
+
+	</td>
+  </tr>
+  <tr>
+	<td>
+
+Proteoglycans
+-------------
+	* Func: Amorphous gel-like ECM, reduces friction / impact
+	* Struct: Highly hydrophobic GAGs
+		* Free GAGs found in joints, however usually components of Proteoglyans
+		* ...
+		* STUDY STRUCTURE
+
+	</td>
+	<td>
+	</td>
+  </tr>
+</table>
+
 
 ??????
 ======
@@ -166,34 +190,48 @@ Hemidesmosome
 
 Cell-Cell Adhesion molecules
 ============================
-	* Selectins (Ca+2 dependant)
-	* Cadherins (Ca+2 dependant)
-	* IgSF
-	* Integrin
+
+<table>
+  <tr>
+	<td>
 
 Selectins (Selectin-Lectin)
-===========================
-	* CALCIUM DEPENDANT
+---------------------------
+	* **Ca+2 dependant**
 	* Selectin binds oligosaccharide on adjacent cell
 	* Ends in Lectin-like domain (Carbohydrate)
 	* L-selectin (leukocyte), E-selectin (epithelial), P-selectin (platelets)
 
+	</td>
+	<td>
+
 Cadherins (Cadherin-Cadherin)
-=============================
-	* CALCIUM DEPENDANT
+-----------------------------
+	* **Ca+2 DEPENDANT**
 	* Important in empryogenesis and cancer
 	* N cad, P cad, E cad
 
+	</td>
+  </tr>
+  <tr>
+	<td>
+
 IgSF (IgSF-IgSF)
-================
+----------------
 	* IgSF domains on both cells interact
 	* NCAM, VCAM, L1, etc.
 
+	</td>
+	<td>
+
 Integrins (Integrin-IgSF)
-=========================
+-------------------------
 	* Integrin on one cell interacts with IgSF on another cell
 	* Eg. Integrin on leukocyte w/ VCAM on vascular endothelium
 
+	</td>
+  </tr>
+</table>
 
 <!-- Cell Junctions -->
 
@@ -202,21 +240,57 @@ Cell-Cell Junctions
 	* Gap & Tight Junctions:			Allow and prevent molecule exchange
 	* Adherens Junction & Desmosome:	Hold cells together
 
+<table>
+  <tr>
+	<td>
+
 Adherens Junction
-=================
-	* Utilize Cadherins
-	* Bind Actin
-	* Signal adapters: a/b Catenin
+-----------------
+	* Utilize **Cadherins**
+	* Bind **Actin**
+	* Signal adapters: **a/b Catenin**
+
+	</td>
+	<td>
 	
 Desmosomes
-==========
-	* Utilize Desmogliens, Desmocollins
-	* Bind Intermediate Filament
-	* Signal adapters: Plankoglobin, Desmoplankin
+----------
+	* Utilize **Desmogliens**, **Desmocollins**
+	* Bind **Intermediate Filament**
+	* Signal adapters: **Plankoglobin**, **Desmoplankin**
+
+	</td>
+  </tr>
+  <tr>
+	<td>
+
+Tight Junctions
+---------------
+	* Paracellular pathway - differential control of molecule movement
+	* Maintains polarity of epithelial cell
+	* Seen on epithelial cells at apical surface, Blood-brain barrier
+	* **Claudin**, **Occludin** - Do what? 
+	* ZO-1 intracellular adapter
+
+	</td>
+	<td>
+
+Gap Junctions
+-------------
+	* Pipelines connecting cells
+	* Small molecules, ~1000 Daltons
+	* Connexon -- hexamer of connexin subunits
+	* Regulation: Low Ca+2, Phosphorylation, changes in membr potential
+		* High Ca+2 shuts down
+	* Responsible for coordinated heart
+
+	</td>
+  </tr>
+</table>
 
 Cadheren Switching
 ==================
-	Cadherens differentially up/downreg'd during development
+	* Cadherens differentially up/downreg'd during development
 	* E-cadheren (epithelial) polarized, tight binding to one another
 	* N-cadheren (neural) nonpolar, loose binding, more motile
 	* E binds E, N binds N. E cannot bind N.
@@ -227,41 +301,24 @@ Cadheren Switching
 
 Inflammation process
 ====================
-	Cytokines & chemokines recruit
+	* Cytokines & chemokines recruit
 	1. Activation of endothelial
 	2. Trapping
 	3. Activation of neutrophil
 	4. Adhesion
 	5. Invasion
 
-Tight Junctions
-===============
-	* Paracellular pathway - differential control of molecule movement
-	* Maintains polarity of epithelial cell
-	* Seen on epithelial cells at apical surface, Blood-brain barrier
-	* Claudin, Occludin - Do what? 
-	* ZO-1 intracellular adapter
-
 Tight Junction pathogen target
 ==============================
-	* CAG protein on bacteria alters polarity and adhesiveness
-	* Binds/recruits ZO-1
-	* also need VAC
+	* **CAG protein** on bacteria alters polarity and adhesiveness
+	* Binds/recruits **ZO-1**
+	* also need **VAC**
 
 Gap Junctions
 =============
-	* Pipelines connecting cells
-	* Small molecules, ~1000 Daltons
-	* Connexon - hexamer of connexin subunits
-	* Regulation: Low Ca+2, Phosphorylation, changes in membr potential
-		* High Ca+2 shuts down
-	* Responsible for coordinated heart
-
-Gap Junctions
-=============
-	Nerve cells - ions able to be transported via gap junctions
-	IPv3 can travel between gap junctions, as can cAMP
-	IPv3 triggers Ca+2 release from SER
+	* Nerve cells - ions able to be transported via gap junctions
+	* IPv3 can travel between gap junctions, as can cAMP
+	* IPv3 triggers Ca+2 release from SER
 
 Follicle Stimulating Hormone (FSH)
 ==================================
@@ -272,11 +329,11 @@ Follicle Stimulating Hormone (FSH)
 <!-- Test Question:-->
 Degradation of cell adhesion
 ============================
-	The effects of the following on L1 (an IGSF) & selectin
+	* The effects of the following on L1 (an IGSF) & selectin
 	* Trypsin (protease) - degrades both
-	* RGD - no effect (binds integrins)
-	* Neuroaminidase (clips oligosac) - inhibits selectins
-	* Collagenase - no effect (collagen is extracellular)
-	* EGTA/EDTA (ca+2 inhib) - inhibits selectins
+	* RGD -- no effect (binds integrins)
+	* Neuroaminidase (clips oligosac) -- inhibits selectins
+	* Collagenase -- no effect (collagen is extracellular)
+	* EGTA/EDTA (Ca+2 inhib) -- inhibits selectins
 
 

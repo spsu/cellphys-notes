@@ -15,3 +15,220 @@ Smooth ER
 		* Synthesis of lipids, stereoid hormones
 		* Detoxification - liver P450 cytochrome 
 		* Storage of Ca+2 ions
+		* IPv3 signals to release
+
+<t>
+
+RER Synthesized Proteins
+------------------------
+	* **Integral membrane proteins**
+	* *Secreted* proteins
+	* Souble organelle proteins
+<col>
+
+Freely Sythesized Proteins
+--------------------------
+	* **Peripheral membrane proteins**
+	* *Cytoplasmic* proteins
+	* *Globular* proteins
+	* *Souble* proteins, eg. hemoglobin
+	* **Nuclear proteins**
+	* **Mitochondria/Chloroplast** proteins
+
+</t>
+
+Transfer
+========
+	1. Sorting
+	2. Budding
+	3. Docking
+	4. Release
+
+Biosynthetic Pathway
+====================
+	* Biosynthetic Pathway = Secretory Pathway
+		* Constituative
+		* Regulated
+
+Endocytic Pathway
+=================
+	* Endocytic Pathway
+		* Uptake exogenous
+		* Downreg receptors
+
+Sorting Address 
+===============
+	* ...
+
+Study of sorting
+================
+	* Pulse chase -- labeled AA followed by nonlabeled
+	* GFP -- transfect into desired cell, can be temp-sensitive
+	* Cell free systems -- centrifuge, collect supernatant **microsomes**
+	* Yeast are easy to study for mutants
+		* Sec 15 -- cannot bud from ER
+		* Sec 17 -- vesicles cannot dock w/ golgi
+	* RNAi silencers -- block eg. *Mannosidase II*, Golgi resident pro
+
+Signal Sequence
+===============
+	1. Signal Sequence -- emerges from N-terminus of new protein
+	2. **Signal Recognition Particle (SRP)** binds, stopping translation
+	3. SRP binds **SRP receptor** at ER
+	4. Translation continues through **translocon** (plug removed)
+		* A plug normally keeps the translocon shut
+	5. Signal Peptidase -- clips off the signal peptide
+	* Early conformation, closed conformation, activated conformation, abort... ???
+
+Molecular Chaperones
+====================
+	* BiP -- provides optimal environment for folding
+	* Heat Shock Proteins (HSP) -- Cell is stress, upreg'd to prevent denaturation
+
+Modifications of Proteins
+=========================
+	* Modifications begin in ER -- co- and post-translationally 
+		* Signal peptidase -- removal of signal sequence
+		* Chaperones -- folding of protein
+		* Addition of oligosacc. co-translationally 
+	* Glycosylation 
+
+Glycosylation in ER
+===================
+	* Flipases -- must be used to transfer sugars into ER from cytosol (clever!)
+	* Glycosyltransferases -- transfer oligosac. to proteins
+	* Usually Glucose, Mannose, and N-Acetylglucosamine (NAG)
+
+Quality Control
+===============
+	* Unfolded Protein Response --
+		* TODO
+	* ER-Associated Degradation (ERAD) --
+		* Protein begins with **glu-glu-glu**
+		* Glucosidase I -- trims the two terminal glucose residues, leaving one
+		* Calnexin -- chaperone recognizes single glucose residue
+		* Glucosidase II -- trims the final glucose
+		* After several rounds of folding, mannose residues clipped off - destined
+		  to be degraded.
+		* Ubiquitin -- tags proteins for degradation
+		* Proteosome -- degrades ubiquitin-coated proteins
+
+Transport
+=========
+	* **COP II** coated vesicles - anterograde (forward) transport
+		* *ER -> ERGIC -> Golgi (cis -> medial -> trans)*
+	* **COP I** coated vesicles - retrograde transport
+		* *TGN -> Medial -> Cis -> ERGIC -> ER*
+	* **Clathrin coated**
+		* *TGN -> PM or Lysozomes/Endosomes*
+
+SAR
+===
+	* A G-Protein
+	* Sec23/34 & Sec13/31 ???
+	* When activated, becomes membrane bound
+	* Recruits coat proteins, sec proteins, cargo, intrinsic curvature
+
+Docking
+=======
+	* Coat proteins must fall off
+		* Involves Sec23/24 ???
+	* GTPgammaS -- non-hydrolyzable analog, makes impossible to fuze w/ acceptor mbr.
+
+COPI Coated Vesicles
+====================
+	* ARF (vs SAR)
+
+
+Retrograde transport
+====================
+	* Retrieval of escaped proteins
+	* KDEL sequence -- for ER resident proteins
+		* KDEL Receptor - 7tmbr domain - KKXX sequnce recognized
+		* Picked up byARF-regulated proteins
+
+Beyond the Golgi
+================
+	* Regulated secretion -- eg. Neurotransmitter
+	* Constitutive secretion -- eg. Albumin
+	* Endosomes -> Lysosomes
+		* Lysosome-bound proteins have a tag
+		* Mannose tag
+			* Phosphorylation of mannose occurs at TGN
+			* Mannose-6-phosphate
+		* Mannose-6-phosphate receptor 
+	* Arf recruited
+	* GGA adapter -- ??
+
+G-proteins
+==========
+	* Arf -- In Clathrin-mediated & COPI-mediated
+	* SAR -- ???
+
+Transportation Process
+======================
+	1. Cargo selection
+	2. Coating & vesicle budding
+	3. Scission
+	4. Uncoating (required)
+	5. Tethering
+		* Rab (gpro) -- ?? 
+	6. Docking
+		* v-Snares -- on vesicle
+		* t-Snares -- on target
+		* NSF -- hydrolysis of NSF disassembles SNAREs
+	7. Fusion
+
+Endocytic Pathway
+=================
+	* Bulk phase -- *constituitive, nonspecific*
+		* continuous uptake of fluid, eg. pinocytosis
+	* Recepter mediated endocytosis (RME) -- requires *specific ligands*
+		* often used to internalize/downreg/recycle receptor
+		* uptake of essentials - cholesterol, iron
+
+Clathrin-coated pits
+====================
+	1. Concentration of receptors at *clathrin coated pits*
+	2. Coated pits invaginate into cytoplasm, entrapping material
+	3. Vesicle formation
+	4. Pinch off via **dynamin (g-pro)** "neck"
+		* GTP Hydrolysis required, *GTPgammaS will prevent* pinching off
+	5. Uncoat -> fuze with lysosome
+
+Clathrin
+========
+	* **Triskelion** shape
+	* AP2 adapter -- links clathrin coat to cargo
+		* cf. GGA adapter
+
+Housekeeping Receptors
+======================
+	* Deliver required material to cell
+	* **LDL-R** for cholesterol
+	* **Transferrin-R** for iron
+
+Cholesterol metabolism
+======================
+	* Cholesterol -- lipoprotein for synthesis of hormones, membrane
+	* An exogenous/dietary metabolism 
+	* LDL bad, HDL good
+	
+
+LDL "Bad cholesterol"
+=====================
+	* Packaging of Cholesterol *since it cannot flow in bloodstream itself*
+	* Apolipoprotein B-100 -- wraps around LDL and _binds cell receptor_
+	* Experiment: Can change temperature to prevent internalization
+	* Cholesterol de-esterified for use by cell
+
+
+Familial Hypercholestermia (FH)
+===============================
+	* HMG CoA reductase -- regulates endogenous synthesis of cholesterol
+		* Normally influenced by dietary cholesterol
+	* Familial Hypercholestermia (FH) -- defect in extracellular binding domain
+	* JD mutation -- cytosolic domain affected
+
+
+

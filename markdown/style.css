@@ -1,0 +1,43 @@
+
+body {
+	font-family: verdana;
+	font-size: 11pt;
+}
+
+h1 { 
+	font-size: 15pt; 
+	color: blue; 
+	margin: 15 0 0;
+	text-decoration: underline;
+}
+
+h2 {
+	font-size: 13pt;
+	text-decoration: underline
+	margin: 0;
+	padding: 0;
+	display: inline;
+}
+
+ul {
+	margin: 0px 0px 10px 0px;
+}
+table, tr { 
+	padding: 0;
+	margin: 0;
+	vertical-align: top;
+	width: 100%;
+}
+
+td {
+	padding: 3px 3px 10px;
+	vertical-align: top;
+}
+
+.section {
+	margin: 8px 8px 20px;
+}
+
+td {
+	border: 1px solid #ccc;
+}

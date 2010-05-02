@@ -1,0 +1,21 @@
+G-Protein Cycle
+===============
+	* States:
+		* GTP-Protein -- Active
+		* GDP-Protein -- Inactive
+	* GEFs --
+	* GAPs (GTPase) -- enzyme to hydrolize GTP to GDP, inactivating
+	* GDIs -- 
+
+G-proteins
+==========
+	* Signal Recognition Particle (SRP)
+	* SRP Receptor (SR)
+	* SAR (Secretion-Associated Ras-like)
+	* ARF
+	* Rab -- Vesicle tethering. (Can be used for maintenance of mbr asymmetry.)
+	* Dynamin -- Clathrin-coated vesicle release "necks"
+	* Ras -- oncogene
+
+
+

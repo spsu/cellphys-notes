@@ -58,7 +58,9 @@ def markupFirst(x):
 	x = re.sub(r'</t>', r'</td></tr></table>', x) # endash
 	
 	# Global molecule/etc. notation
-	x = re.sub(r'[Cc]a\+2', r'Ca<sup>+2</sup>', x) # Calcium
+	x = re.sub(r'Na+', r'Na<sup>+</sup>', x) # Na+
+	x = re.sub(r'K+', r'K<sup>+</sup>', x) # K+
+	x = re.sub(r'[Cc]a\+2', r'Ca<sup>+2</sup>', x) # Ca+2
 	x = re.sub(r'IPv3', r'IP<sub>3</sub>', x) # IP3
 	x = re.sub(r'alpha', r'&alpha;', x) # Alpha
 	x = re.sub(r'beta', r'&beta;', x) # Beta

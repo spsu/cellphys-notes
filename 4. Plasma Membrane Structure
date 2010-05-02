@@ -1,0 +1,224 @@
+<!-- Basics -->
+
+Lipid Bilayer
+=============
+	* Outer and inner leaflets - Gorter and Grendel
+	* Fluid Mosaic Model -- the central dogma of membrane bilayers
+		* Transmembrane proteins
+			* alpha helix -- portion of mbr protein in bilayer
+		* Peripheral proteins
+		* Oligosaccharides
+		* Glycoproteins
+
+
+Plasma Membrane
+===============
+	* Varies based on surface - *apical, lateral, basal* surfaces
+	* *Micelle vesicle* rapidly forms - self-sealing
+	* There is an *optimal fluidity*
+	* **~5nm thick**
+
+Plasma Membrane Functions
+=========================
+	1. Functional Compartmentalization - proteins & lipids vary by membrane type
+	2. Selective barrier
+	3. Scaffold for biochemical processes
+	4. Transport - passive, active
+	5. Cell signalling, eg. action potential
+	6. Intercellular interactions - Gap Junctions, etc.
+	7. Motility
+	8. Energy transduction - eg. mitochondrion
+
+Transport
+=========
+	* Facilitated diffusion -- any transport that requires a protein channel
+	* Active transport
+	* Water channel/aquapore
+	* etc.
+
+Endocytosis
+===========
+	* Phagocytosis -- membrane deforms & ingests
+	* Pinocytosis
+	* Receptor Mediated Endocytosis (RME) -- downregulate signal transduction, 
+	  dietary uptake
+
+Phospholipids
+=============
+	* Phospholipid molecule -- *Head Group - Phosphate - Glycerol*
+		* 12 - 20 carbons
+	* Saturated -- no double bonds
+	* Unsaturated -- one or more double bonds, form *kinks*, *increasing fluidity*
+	* cis vs trans fatty acids -- hydrogens on same side in cis
+	* leaflet determines composition - eg cytosolic is diff to endoplasmic?
+
+Fluidity maintenence
+====================
+	* Increasing Temperature -- increases fluidity
+		* Transition temperature -- temp at which membrane becomes fluid
+	* Degree of Unsaturation -- increases fluidity
+	* Cholesterol -- used to optimize fluidity
+	* Transfatty acids -- not cis-configured, remain rigid. Bad!
+	* *Response to a change in fluidity is typically to counter.*
+	* Antarctic fish have highest unsaturaed lipids
+
+Misc Terms
+==========
+	* Cytokenesis -- Cell division
+	* Liposomes -- artificial vesicles used for drug delivery
+
+
+Movement of phospholipid molecules
+==================================
+	* Transverse diffusion -- movement within SAME leaflet, extremely fast
+	* Lateral shift -- flip between leaflets, slow
+		* Requires a **flipase**. Also used to *glycosylate proteins in ER*.
+
+Membrane proteins
+=================
+	* Functions: Transporters, Anchors (eg. Integrin), Receptors, Enzymes
+	* Classifications:
+		* Transmembrane
+		* Peripheral proteins -- part of protein is hydrophobic & embedded in half
+		  of membrane.
+			* Anchor or linkage, eg *GPI anchor* 
+		* 
+
+Difficult to study
+==================
+	* Membrane protein study is very tedious
+	* Must use detergent - risk of losing original conformation/function
+	* Amphipathic -- any molecule with hydrophilic and hydrophobic parts
+	* Detergents are *amphipathic* and form *mycelles* around proteins
+
+
+Study techniques
+================
+	* Detergents
+	* Computational Chemistry
+	* Freeze-fracture
+	* Fluorescence Recovery After Photobleaching (FRAP)
+
+Glycoprotein Function
+=====================
+	* Cell-cell recognition and adhesion
+	* Protect from chemical and mechanical damage
+	* Absorb water -- slimy surface that (eg. leukocytes) can squeeze through.
+
+Lipid Rafts
+===========
+	* Specialized domains 
+	* **Lots of cholesterol**
+
+Transport
+=========
+	* TODO: Figure out which rates are the fastest!!!
+	* Simple diffusion -- small, lipid soluble
+		* hydrophobic and uncharged polar molecules
+		* Moves with *concentration gradient* 
+	* Facilitated diffusion -- utilizes channels or carriers
+		* Active
+		* Passive
+		* Electrochemical gradient -- positive outside, negative inside
+
+Osmosis
+=======
+	* Hypotonic
+	* Hypertonic
+	* Isotonic
+	
+Port types
+===========
+	* Uniport -- one molecule, one way only
+	* Symport -- two molecules simultaneously, one way only
+	* Antiport -- two molecules simultaneously, one incoming one outgoing 
+
+Carriers and Channels
+=====================
+	* Carriers -- solute binds to carrier, inducing conformational change 
+		* TODO: Draw Na+/K+ ATPase
+	* Ion Channels -- pore selects ions *based on size and charge*
+		* selectivity filter -- controls which ions get through, more than 1mil/sec
+		* Voltage-gated - eg. Na+, etc.
+		* Ligand-gated - eg. Neurotransmitters
+		* Mechanogated 
+
+Regulation
+==========
+	* Inactivation Peptide -- a type of gate
+	* Rest, Open, "Inactivated" states
+
+
+K+ Channel
+==========
+	* CFTR -- cystic fibrosis (ion channel disease)
+	* K+ Channel -- pore domain, *voltage sensor domain*
+	* GLUTs -- glucose transporters
+	* Na+/Glucose cotransporter -- a symport
+
+Active Transport
+================
+	* Na+/K+ ATPase -- requires 1/3rd of cell energy
+		* Creates Membrane potential
+		* Establishes high K+ inside, high Na+ outside
+		* Pumps out 3 Na+, in 2 K+
+
+Na+/K+ ATPase
+=============
+	* 3 Na+ : 2 K+ ratio
+	1. Binds 3 Na+ inside
+	2. ATP transports P to protein
+	3. Conformational change, low affinity for Na+ -> release
+	4. ... TODO
+
+Membrane Potential
+==================
+	* Charge imbalance -- results in nonzero membrane potential
+		* Na+/K+ ATPase establishes gradient, usually *approx. -70mV*
+	* Depolarization -- membrane potential becomes *less negative*
+	* Hyperpolarization -- membrane potential becomes *more negative*
+	* Equalibrium potential -- Net flow of an ion is zero
+		* Nearnst Eq -- 59*log10(in/out) - *59 is RT/Faraday*
+		* pH = -log(H+ Concen); H+ concen = 1/antilog(ph)
+
+Action Potential
+================
+	* Rapid conduction wave of electrical potential
+	* Thresholded -- all or none event at *approx -50mV*
+	* K+ channels -- triggered to open at threshold
+	* Voltage-gated Ca+2 channels -- ...
+
+Saltatory conduction
+====================
+	* Nodes of Ranvier
+	* Myelinated axon
+		* M.S. a consequence of demyelination 
+
+Toxins
+======
+	* Tetrodotoxin -- partially blocks Na+, increases threshold, decr. amp & rate
+	* Peptide toxin -- reduce rate of Na+ channel inactiation, prolongs AP duration
+	* Tetraethla... ions -- block K+ channels, prolong AP
+
+Neurotransmitters
+=================
+	* Acetylcholine -- excitory NT
+	* GABA -- inhibitory NT
+	
+
+
+	
+
+
+<!-- TODO -->
+Know These
+==========
+	* Movement of lipids & proteins
+	* Extracellular/intracellular domain
+	* Membrane-spanning transmembrane proteins
+	* Phospholipids
+	* Glycoproteins
+	* Glycolipids
+	* Hydrophobic/philic
+	* Cholesterol
+	* Central Dogma -- fluid mosaic model
